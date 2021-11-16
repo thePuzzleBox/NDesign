@@ -11,7 +11,7 @@ timeline: [
   },
   {
     imageFileName: "events/butterfly.jpg",
-    header: "Sometime in 2015",
+    header: "Summer 2015",
     subheader: "A Game That Would Change My Life Forever",
     content: "After playing the game Life is Strange for the first time, I knew my captivated by the ability to move others with a story. My trajectory of games would never be what it is without this game. "
   },
