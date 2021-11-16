@@ -4,31 +4,31 @@ header: "My Journey"
 subheader: "A look at a brief timeline of personal accomplishments in my life."
 timeline: [
   {
-    imageFileName: "events/1.jpg",
+    imageFileName: "events/nes.jpg",
     header: "Early 2000s",
-    subheader: "A Instant Connection",
+    subheader: "An Instant Connection",
     content: "Started playing games for as long as I can remember. My sister and I dabbled in our fair sair of NES games, MMOs, and single-player adventures."
   },
   {
-    imageFileName: "events/2.jpg",
-    header: "March 2011",
-    subheader: "An Agency is Born",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    imageFileName: "events/butterfly.jpg",
+    header: "Sometime in 2015",
+    subheader: "A Game That Would Change My Life Forever",
+    content: "After playing the game Life is Strange for the first time, I knew my captivated by the ability to move others with a story. My trajectory of games would never be what it is without this game. "
   },
   {
-    imageFileName: "events/3.jpg",
-    header: "December 2012",
-    subheader: "Transition to Full Service",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    imageFileName: "events/research.png",
+    header: "Early 2018",
+    subheader: "Uncovering a Niche",
+    content: "As anything in need of pursuing, I researched. And read. And wrote. This paper came to be th answer to my curiosity and reflection of a possible career choice."
   },
   {
     imageFileName: "events/hrc.png",
     header: "Late 2020",
     subheader: "Human Rights Campaign",
-    content: "My other passion for activism led me to HRC. Now one of their Youth Ambassadors, I've had the pleasure of speaking with and to some amazing people, allowing me to ..."
+    content: "My other passion for activism led me to HRC. Now one of their Youth Ambassadors, I continue to try to make a difference through my words."
   },
   {
-    imageContent: "Not the\r\nEnd of\r\nMy Story..."
+    imageContent: "The End?"
   }
 ]
 ---
