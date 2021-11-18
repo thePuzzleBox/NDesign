@@ -1,22 +1,15 @@
 ---
 anchor: "Services"
-header: "Hi! Hello there!"
-subheader: "Lorem ipsum dolor sit amet consectetur."
-services: [
+header: "Hello there!"
+subheader: "Here are some important things you should know about me"
+
+teamMember: [
+ 
   {
-    iconName: "ShoppingCartIcon",
-    header: "E-Commerce",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    imageFileName: "team/closeup.jpg",
+    header: "",
+    subheader: "",
   },
-  {
-    iconName: "LaptopIcon",
-    header: "Responsive Design",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  },
-  {
-    iconName: "LockIcon",
-    header: "Web Security",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  }
 ]
+
 ---

@@ -1,4 +1,4 @@
 ---
-brand: "Welcome"
+brand: ""
 menuText: ""
 ---

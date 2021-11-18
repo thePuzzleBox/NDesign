@@ -36,7 +36,7 @@ const PortfolioItem = ({
           data-toggle="modal"
           onClick={handleShowDetail}
         >
-          
+
           <Image
             className="img-fluid"
             fileName={imageFileName}
@@ -49,7 +49,7 @@ const PortfolioItem = ({
           </div>
         </a>
         <div className="portfolio-caption">
-          <a href= "view/Sections/Contact/Contact.jsx"><h4>{header}</h4></a>
+          <a href="src\views\Sections\Contact\Contact.jsx"><h4>{header}</h4></a>
           {subheader ? <p className="text-muted">{subheader}</p> : null}
         </div>
       </Col>

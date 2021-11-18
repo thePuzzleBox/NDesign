@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import { Row, Col } from "react-bootstrap";
-import TeamMember from "components/TeamMember";
+import Image from "content/assets/images/team/profile.jpg"
 import SectionHeader from "components/SectionHeader";
 import PageSection from "components/PageSection";
 import "./About.scss";
@@ -16,8 +16,7 @@ const About = ({ className, frontmatter }) => {
     anchor,
     header: rootHeader,
     subheader: rootSubHeader,
-    content: rootContent,
-    teamMember,
+    content: rootContent
   } = frontmatter;
 
   return (
@@ -26,18 +25,28 @@ const About = ({ className, frontmatter }) => {
         <SectionHeader header={rootHeader} subheader={rootSubHeader} />
       </Row>
       <Row>
-        {teamMember.map(({ header, ...tmProps }) => (
-          <Col sm={10} key={header}>
-            <TeamMember header={header} {...tmProps} />
-          </Col>
-        ))}
+        <div>
+          <img src={Image} alt="me" width="50%" height="auto" className="center" />
+        </div>
       </Row>
       <Row>
-        <Col lg={8} className="mx-auto text-center">
-          <p className="large text-muted">{rootContent}</p>
-        </Col>
+        <div>
+          <Col lg={9} className="mx-auto text-left">
+            <p className="large text-muted" margin-top="100px">{rootContent}</p>
+          </Col>
+        </div>
       </Row>
-    </PageSection>
+      <Row>
+        {/* <Col lg={9} className="mx-auto text-left"> <p className="large text-muted">
+          My Top 5 Favorites of All Time: <br />
+          1. Life is Strange + Before the Storm <br />
+          2. Detroit: Become Human <br />
+          3. Telltale&apos;s The Walking Dead<br />
+          4. The Last of Us Part I and II <br />
+          5. Until Dawn</p>
+        </Col>  */}
+      </Row>
+    </PageSection >
   );
 };
 
