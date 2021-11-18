@@ -1,4 +1,4 @@
 ---
 brand: "Welcome"
-menuText: "Menu "
+menuText: ""
 ---

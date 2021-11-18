@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 
 import { Row, Col } from "react-bootstrap";
 
-import ServiceItem from "components/ServiceItem";
 import SectionHeader from "components/SectionHeader";
 import PageSection from "components/PageSection";
 
@@ -20,11 +19,10 @@ const Services = ({ className, frontmatter }) => {
         <SectionHeader header={rootHeader} subheader={rootSubHeader} />
       </Row>
       <Row className="text-center">
-        {services.map((service) => (
-          <Col md={4} key={service.header}>
-            <ServiceItem {...service} />
-          </Col>
-        ))}
+        <Col md={2}>
+          <p>Hi, Im Jalen, aspiring storyteller and narrative game enthusiast.</p>
+        </Col>
+        <Col><img src="me.jpg" alt="Me and Pierre" /></Col>
       </Row>
     </PageSection>
   );

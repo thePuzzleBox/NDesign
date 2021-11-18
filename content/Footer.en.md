@@ -1,9 +1,9 @@
 ---
 copyright: "Copyright © Made with ❤️"
 social: {
-  twitter: "#",
-  facebook: "#",
-  medium: "JalenSmith26"
+  medium: "JalenSmith26",
+  linkedin: "#",
+  youtube: "Jalenskytv"
 }
 privacyText: "Banner by Steven Sugar"
 privacyHref: "https://www.stevensugar.art/"

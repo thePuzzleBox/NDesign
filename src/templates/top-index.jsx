@@ -64,8 +64,9 @@ export const query = graphql`
           social {
             facebook
             github
-            linkedin
             medium
+            linkedin
+            youtube
             twitter
           }
           subheader
@@ -77,6 +78,7 @@ export const query = graphql`
               github
               linkedin
               medium
+              youtube
               twitter
             }
             subheader
@@ -100,7 +102,7 @@ export const query = graphql`
   }
 `;
 
-const IndexPage = ({ data, pageContext: { langKey} }) => {
+const IndexPage = ({ data, pageContext: { langKey } }) => {
   const {
     site: {
       siteMetadata: { keywords, description },
