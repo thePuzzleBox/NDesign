@@ -25,7 +25,7 @@ timeline: [
     imageFileName: "events/hrc.png",
     header: "Late 2020",
     subheader: "Human Rights Campaign",
-    content: "My other passion for activism led me to HRC. Now one of their Youth Ambassadors, I uplift and support my communities and continue to try to make a difference through my words."
+    content: "My other passion for activism led me to HRC. Now one of their Youth Ambassadors, I am able to further uplift and support my communities in this new capacity as I continue to try to make a difference through my words."
   },
   {
     imageContent: "The\n End?"

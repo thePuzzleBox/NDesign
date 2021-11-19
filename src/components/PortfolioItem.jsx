@@ -49,7 +49,12 @@ const PortfolioItem = ({
           </div>
         </a>
         <div className="portfolio-caption">
-          <a href="src\views\Sections\Contact\Contact.jsx"><h4>{header}</h4></a>
+          <a
+            role="button"
+            tabIndex={-1}
+            className="portfolio-link"
+            data-toggle="modal"
+            onClick={handleShowDetail}><h4>{header}</h4></a>
           {subheader ? <p className="text-muted">{subheader}</p> : null}
         </div>
       </Col>
