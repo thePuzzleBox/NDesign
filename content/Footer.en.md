@@ -6,6 +6,6 @@ social: {
   youtube: "Jalenskytv"
 }
 privacyText: "Banner by Steven Sugar"
-privacyHref: "https://www.stevensugar.art/"
+privacyHref: ""
 ---
 linkedin: "#",

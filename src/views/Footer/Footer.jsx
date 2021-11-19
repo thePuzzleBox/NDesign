@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 
 import { Container, Row, Col } from "react-bootstrap";
 import * as SocialIcons from "components/SocialIcons";
+import "./Footer.scss";
 
 const Footer = ({ frontmatter }) => {
   if (!frontmatter) {
@@ -11,7 +12,6 @@ const Footer = ({ frontmatter }) => {
 
   const {
     copyright,
-    privacyHref,
     privacyText,
     social: { facebook, github, linkedin, medium, twitter, youtube, twitch },
   } = frontmatter;
@@ -33,9 +33,7 @@ const Footer = ({ frontmatter }) => {
             {github ? <SocialIcons.Github userName={github} /> : null}
           </Col>
           <Col lg={4} className="text-lg-right">
-            <a className="mr-3" href={privacyHref}>
-              {privacyText}
-            </a>
+            {privacyText}
           </Col>
         </Row>
       </Container>

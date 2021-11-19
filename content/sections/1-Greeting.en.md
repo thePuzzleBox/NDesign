@@ -1,5 +1,5 @@
 ---
-anchor: "Services"
+anchor: "Greeting"
 header: "Hello there!"
 subheader: "Here are some important things you should know about me"
 
