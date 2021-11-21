@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 import { Row, Col } from "react-bootstrap";
-import Image from "content/assets/images/team/profile.jpg"
+import Image from "content/assets/images/team/profile.jpg";
 import SectionHeader from "components/SectionHeader";
 import PageSection from "components/PageSection";
 import "./About.scss";
