@@ -11,6 +11,20 @@ p {
   font-size: 110%;
 }
 
+a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 4px;
+  font-size: 13pt;
+  text-decoration-color: black;
+}
+    a:link { text-decoration: none; }
+    a:visited { text-decoration: none; }
+    a:hover { text-decoration: underline; text-decoration-color: black; }
+    a:active { text-decoration: none; }
+
+ul {
+  margin-left: -10px;
+}    
 // edits all the other imgs for some reason... (portfolio item, etc?)
 img{
   margin-bottom: 50px;

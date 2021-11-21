@@ -28,7 +28,8 @@ const Greeting = ({ className, frontmatter }) => {
           <div className="info-body">
             <p className="text-muted">
               <br />Aspiring storyteller, queer rights activist, narrative game enthusiast,<br />
-              and huge nerd to all-things Marvel!<br />
+              and huge nerd to all-things Marvel!<br /><br />
+              From The Last of Us to Life is Strange, I enjoy entertainment that<br />captivates and only hope someday I&apos;ll be able to create the same.
 
             </p>
           </div>

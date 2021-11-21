@@ -21,7 +21,7 @@ const Contact = ({ className, frontmatter }) => {
           <p className="text-muted mb-5">{subheader}</p>
         </Col>
       </Row>
-      <Row>
+      <Row style={{ marginTop: "80px", marginBottom: "20px" }}>
         <Col lg={4} className="ml-auto text-center">
           <Icon iconName="PhoneIcon" size="3x" className="text-muted mb-3" />
           <a className="d-block" href={`tel:${telephone}`}>

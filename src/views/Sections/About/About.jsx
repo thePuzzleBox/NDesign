@@ -36,16 +36,23 @@ const About = ({ className, frontmatter }) => {
           </Col>
         </div>
       </Row>
-      <Row>
-        {/* <Col lg={9} className="mx-auto text-left"> <p className="large text-muted">
-          My Top 5 Favorites of All Time: <br />
-          1. Life is Strange + Before the Storm <br />
-          2. Detroit: Become Human <br />
-          3. Telltale&apos;s The Walking Dead<br />
-          4. The Last of Us Part I and II <br />
-          5. Until Dawn</p>
-        </Col>  */}
-      </Row>
+      <Col style={{ marginLeft: "140px", marginBottom: "-100px" }}>
+        <Row>
+          <p className="text-center" style={{ textDecoration: "underline", fontWeight: "bold", marginTop: "100px" }}>Hey, That&apos;s Me! </p>
+        </Row><ul>
+          <Row><li>
+            <a href="https://www.hrc.org/news/hrc-foundation-announces-class-of-2021-youth-ambassadors">HRC Foundation Announces Class of 2021 Youth Ambassadors</a><br />
+          </li></Row>
+          <Row><li>
+            <a href="https://uproxx.com/music/brockhampton-gay-clothing-zumiez/">Brockhampton Relaunches Their ‘Gay’ Clothing Collection At Zumiez</a><br />
+          </li></Row>
+          <Row><li>
+            <a href="https://www.hrc.org/news/celebrating-apahm-with-hrc-youth-ambassadors">Celebrating APAHM with HRC Youth Ambassadors</a><br />
+          </li></Row>
+          <Row><li>
+            <a href="https://www.glaad.org/amp/transmen-and-trans-masc-people-share-their-favorite-part-being-trans-offer-advice-youth-and-allies">Trans Men and Trans Masculine People Share Advice to Youth and Allies</a><br />
+          </li></Row></ul >
+      </Col >
     </PageSection >
   );
 };
