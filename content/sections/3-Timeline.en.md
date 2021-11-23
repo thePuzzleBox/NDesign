@@ -4,10 +4,10 @@ header: "My Journey"
 subheader: "A look at a brief timeline of personal accomplishments in my life."
 timeline: [
   {
-    imageFileName: "events/tail.jpg",
+    imageFileName: "events/kids.jpg",
     header: "Early 2000s",
     subheader: "An Instant Connection",
-    content: "Started playing games for as long as I can remember. My sister and I dabbled in our fair share of NES games, MMOs, and single-player adventures."
+    content: "Started playing games for as long as I can remember. My sister and I dabbled in our fair share of NES games, MMOs, and single-player adventures. And would grow as gamers (and nerds) alike."
   },
   {
     imageFileName: "events/max.jpg",
