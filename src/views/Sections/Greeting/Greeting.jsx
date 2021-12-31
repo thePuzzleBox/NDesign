@@ -29,7 +29,9 @@ const Greeting = ({ className, frontmatter }) => {
             <p className="text-muted">
               <br />Aspiring storyteller, queer rights activist, narrative game enthusiast,<br />
               and huge nerd to all-things Marvel!<br /><br />
-              From overgrown world in The Last of Us to the diverse landscapes in League of Legends's Runterra, I enjoy entertainment that<br />captivates and only hope someday I&apos;ll be able to create the same.
+              From overgrown world in The Last of Us to the diverse landscapes in<br />
+              League of Legends's Runterra, I enjoy entertainment that<br />
+              captivates and only hope someday I&apos;ll be able to create the same.
 
             </p>
           </div>
