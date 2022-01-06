@@ -1,19 +1,19 @@
 ---
 anchor: "Timeline"
 header: "My Journey"
-subheader: "A look at a brief timeline of personal accomplishments and milestones in my life."
+subheader: "A brief look at my personal accomplishments and milestones in life."
 timeline: [
   {
     imageFileName: "events/kids.jpg",
     header: "Early 2000s",
     subheader: "An Instant Connection",
-    content: "Started playing games for as long as I can remember. My sister and I dabbled in our fair share of NES games, MMOs, and single-player adventures. And would grow as gamers (and nerds) alike."
+    content: "I started playing games for as long as I can remember. My sister and I dabbled in our fair share of NES games, MMOs, and single-player adventures. And would grow as gamers (and nerds) alike."
   },
   {
     imageFileName: "events/max.jpg",
     header: "Summer 2015",
     subheader: "A Game That Would Change My Life Forever",
-    content: "After playing the 2014 game Life is Strange for the first time, I was instantly attracted to the ability to move others with a captivating story. Thus, my trajectory as a player was completely rewritten... "
+    content: "After playing the 2014 game Life is Strange for the first time, I was instantly attracted to the ability to move others with a captivating story. Thus, my trajectory as a player would completely change... "
   },
   {
     imageFileName: "events/journey.jpg",
