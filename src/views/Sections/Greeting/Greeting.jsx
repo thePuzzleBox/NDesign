@@ -26,19 +26,19 @@ const Greeting = ({ className, frontmatter }) => {
             <h4 style={{ fontSize: "35pt" }}>Hi! I&apos;m Jalen.</h4>
           </div>
           <div className="info-body">
-            <p className="text-muted">
+            <p className="text-muted" style={{marginRight: "0px"}}>
               <br />Aspiring storyteller, queer rights activist, narrative game enthusiast,<br />
               and huge nerd to all-things Marvel!<br /><br />
-              From overgrown world in The Last of Us to the diverse landscapes in<br />
-              League of Legends's Runterra, I enjoy entertainment that<br />
-              captivates and only hope someday I&apos;ll be able to create the same.
+              From overgrown world in The Last of Us to the diverse landscapes<br />
+              in League of Legends&apos;s Runterra, I enjoy entertainment that<br />
+              captivates and only hope someday I&apos;ll be able to create the same.<br />
 
             </p>
           </div>
         </div>
         <Col lg={6} className="text-center">
           <div>
-            <img src={Image} alt="Me and Pierre" width="70%" height="auto" style={{ borderRadius: "100%" }} />
+            <img src={Image} alt="Me and Pierre" width="70%" height="auto" style={{ borderRadius: "100%", textAlign: "left"}} />
           </div>
         </Col>
       </Row>

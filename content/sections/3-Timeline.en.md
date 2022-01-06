@@ -1,7 +1,7 @@
 ---
 anchor: "Timeline"
 header: "My Journey"
-subheader: "A look at a brief timeline of personal accomplishments in my life."
+subheader: "A look at a brief timeline of personal accomplishments and milestones in my life."
 timeline: [
   {
     imageFileName: "events/kids.jpg",
