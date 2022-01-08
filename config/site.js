@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Jalen Smith - Portfolio",
+  title: "Jalen Smith",
   keywords: [
     "gatsby",
     "gatsbyjs",

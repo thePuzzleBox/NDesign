@@ -35,8 +35,6 @@ He was a stranger in this strange land.\n\n
 With his red serape moving with the sea’s breeze, his smoking cigar, with every puff, burned against the cold night. Like a leper, he mysteriously kept his left arm covered from onlookers with his shawl. And as he slowly walked the streets of this crime-filled, harbor city, the gold letters embellished on his belt relayed the message that he was, in fact, an outsider. \n\n
 “BAMF,” it weirdly read under the moonlit sky.\n\n
 After passing three others, he stopped in front of the entrance of yet another bar. He looked at the sign overhead but upon hearing the muffled sound of drunken laughter, he knew he reached the right place. Thus, he entered.\n\n
-Locals filled the place with festivity as if it were the night of Kindred Eve. Celebration and rambunctiousness all around. Vigilant, he walked forward, looking to speak to the bartender. But his presence and the creaking under his boots sent shockwaves through the bar.\n\n
-Heads turned one by one the further he treaded into the establishment. The ruckus began to fade away as their eyes slowly formed a pact around him. He knew he was in the belly of the beast now.\n\n
 ...",
     extraInfo: ["Type: Short Story", "Genre: Sci-Fi, Fantasy, Action", "Year: 2021"]
   },
@@ -46,6 +44,8 @@ Heads turned one by one the further he treaded into the establishment. The rucku
     header: "Mondays at Five",
     subheader: "A Text-Based Story Told Through Twine",
     content: "Mondays at Five is a text-based thriller currently in development in Twine.\n\n
+    
+    About the Game:\n\n
     The player takes a look into the psyche of Marc Krill, a single father who struggles in an on-going battle with alcoholism, slowly losing his grip on reality.\n\n
     Despite his blackouts and constant replaying of memories, the only other thing Marc looks forward to aside from his young daughter, is his weekly therapy appointment where he can decompress and silence the chaos he carries around...\n\n",
     extraInfo: ["Type: Video Game", "Genre: Psychological Thriller", "Year: 2021"]

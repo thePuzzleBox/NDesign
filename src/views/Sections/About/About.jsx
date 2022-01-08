@@ -31,12 +31,12 @@ const About = ({ className, frontmatter }) => {
       </Row>
       <Row>
         <div>
-          <Col lg={9} className="mx-auto text-left">
+          <Col lg={9} className="mx-auto text-left" style={{ marginTop: "35px"}}>
             <p className="large text-muted" margin-top="100px">{rootContent}</p>
           </Col>
         </div>
       </Row>
-      <Col style={{ marginLeft: "140px", marginBottom: "-100px" }}>
+      <Col style={{ marginTop: "50px", marginLeft: "140px", marginBottom: "-100px" }}>
         <Row>
           <p className="text-center" style={{ textDecoration: "underline", fontWeight: "bold", marginTop: "100px" }}>Hey, That&apos;s Me! &#40;Features&#41; </p>
         </Row><ul>
@@ -44,6 +44,9 @@ const About = ({ className, frontmatter }) => {
             <a href="https://www.hrc.org/news/hrc-foundation-announces-class-of-2021-youth-ambassadors">HRC Foundation Announces Class of 2021 Youth Ambassadors</a><br />
           </li></Row>
           <Row><li>
+            <a href="https://www.youtube.com/watch?v=EZIwxoe3dZw">HRC Youth Ambassador, Jalen Smith, Speaks at HRC&apos;s 8th Annual Time to THRIVE Conference!</a><br />
+          </li></Row>
+         <Row><li>
             <a href="https://uproxx.com/music/brockhampton-gay-clothing-zumiez/">Brockhampton Relaunches Their ‘Gay’ Clothing Collection At Zumiez</a><br />
           </li></Row>
           <Row><li>
@@ -51,7 +54,11 @@ const About = ({ className, frontmatter }) => {
           </li></Row>
           <Row><li>
             <a href="https://www.glaad.org/amp/transmen-and-trans-masc-people-share-their-favorite-part-being-trans-offer-advice-youth-and-allies">Trans Men and Trans Masculine People Share Advice to Youth and Allies</a><br />
-          </li></Row></ul >
+          </li></Row>
+          <Row><li>
+            <a href="https://www.hrc.org/magazine/2021-winter/up-front">Up Front – Equality Magazine Winter 2021</a><br />
+          </li></Row>
+          </ul >
       </Col >
     </PageSection >
   );
