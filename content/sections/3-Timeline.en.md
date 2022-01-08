@@ -7,7 +7,7 @@ timeline: [
     imageFileName: "events/kids.jpg",
     header: "Early 2000s",
     subheader: "An Instant Connection",
-    content: "I started playing games for as long as I can remember. My sister and I dabbled in our fair share of fighting games, MMOs, and single-player adventures. And would grow as gamers (and nerds) alike."
+    content: "I started playing games for as long as I can remember. My sister and I dabbled in our fair share of fighting games, MMOs, and single-player adventures. And we'd grow as gamers and geeks alike."
   },
   {
     imageFileName: "events/max.jpg",
