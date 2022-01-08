@@ -35,7 +35,7 @@ const Greeting = ({ className, frontmatter }) => {
               So from the overgrown, infected world of The Last of Us to the vast<br/>
               and elaborate universe of Runeterra, I enjoy the experience that<br/>
               comes with immersive storytelling, and only hope someday I can<br />
-              tell equally-powerful stories of my own. 
+              tell powerful stories of my own. 
 
             </p>
           </div>
