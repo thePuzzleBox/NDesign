@@ -1,14 +1,14 @@
 ---
 anchor: "Portfolio"
 header: "Portfolio"
-subheader: "Here's some projects 'n' pieces that I've worked on."
+subheader: "Here are some projects 'n' pieces that I've worked on."
 portfolios: [
   {
     imageFileName: "portfolio/sunset.jpg",
     imageFileNameDetail: "portfolio/watercolorcomic.jpg",
     header: "Sunset Showdown",
     subheader: "A Low-Poly Westerner",
-    content: "Sunset Showdown is a Western RPG and unfinished project developed in Unity that will resume development sometime in the future. Artwork done by a former colleague.\n\n
+    content: "Sunset Showdown is a Western RPG and unfinished project developed in Unity that will resume development sometime in the future. Artwork done by former colleague.\n\n
 
     About the Game:\n\n
     Explore across the golden front of Crow's Canyon and play as broken sheriff Judd Henrie. Having lost his rookie and partner in-training Bailey Finkle, Henrie is on an unhinged path to redemption for the outlaw and mercenary Jebediah Vandisch. Along the way, the sheriff will encounter some untimely folk (and foes) as he finds himself in many bar fights on the journey. One of which is a mysterious young woman (and troublemaker) named Fiona who has information he needs but isn't the nicest to authority.\n\n
@@ -64,7 +64,7 @@ After passing three others, he stopped in front of the entrance of yet another b
   },
   {
     imageFileName: "portfolio/pickleposter.jpg",
-    imageFileNameDetail: "portfolio/picklelg.jpg",
+    imageFileNameDetail: "portfolio/flush.png",
     header: "The Meaning Behind Pickle Rick",
     subheader: "A Look into the Rick and Morty Episode",
     content: "In the episode titled “Pickle Rick” of the animated adult show Rick and Morty on Adult Swim, creators Justin Roiland and Dan Haromon utilize an array of humorous elements within the segment and clearly demonstrate traces of the incongruity theory of humor.\n\n
