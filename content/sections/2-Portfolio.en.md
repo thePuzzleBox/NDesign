@@ -36,7 +36,7 @@ portfolios: [
 He was a stranger in this strange land.\n\n
 With his red serape moving with the sea’s breeze, his smoking cigar, with every puff, burned against the cold night. Like a leper, he mysteriously kept his left arm covered from onlookers with his shawl. And as he slowly walked the streets of this crime-filled, harbor city, the gold letters embellished on his belt relayed the message that he was, in fact, an outsider.\n\n
 “BAMF,” it weirdly read under the moonlit sky.\n\n
-After passing three others, he stopped in front of the entrance of yet another bar. He looked at the sign overhead but upon hearing the muffled sound of drunken laughter, he knew he reached the right place. Thus, he entered.\n\n
+After passing three others, he stopped in front of the entrance of yet another bar. He looked at the sign overhead but upon hearing the muffled sound of drunken laughter, he knew he reached the right place.\n\n
 ...",
     extraInfo: ["Type: Short Story", "Genre: Sci-Fi, Fantasy, Action", "Year: 2021"]
   },
