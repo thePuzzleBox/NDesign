@@ -13,7 +13,7 @@ timeline: [
     imageFileName: "events/max.jpg",
     header: "Summer 2015",
     subheader: "A Game That Would Change My Life Forever",
-    content: "After playing the 2014 game Life is Strange for the first time, I was thoroughly moved by a surprising amount of character vulneralbility and would never forget this gaming experience. Thus, my trajectory as a player was completely changed."
+    content: "After playing the 2014 game Life is Strange for the first time, I was thoroughly moved by a surprising amount of character vulneralbility and will never forget this gaming experience. My trajectory as a player was completely changed."
   },
   {
     imageFileName: "events/journey.jpg",
@@ -25,7 +25,7 @@ timeline: [
     imageFileName: "events/hrc.png",
     header: "Late 2020",
     subheader: "Human Rights Campaign",
-    content: "My other passion, activism, led me to HRC. Now one of their Youth Ambassadors, I am able to further uplift and support my communities in this new capacity as I continue to try to make a difference through my words."
+    content: "My other passion, activism, led me to HRC. Now one of their Youth Ambassadors, I am able to further support my communities in this new capacity as I continue to try to make a difference through my words."
   },
   {
     imageContent: "The\n End?"
