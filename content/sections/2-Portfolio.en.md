@@ -9,6 +9,8 @@ portfolios: [
     header: "Sunset Showdown",
     subheader: "A Low-Poly Westerner",
     content: "Sunset Showdown is a Western RPG and unfinished project developed in Unity that will resume development sometime in the future. Artwork by a former colleague of mine.\n\n
+
+    About the Game:\n\n
     Explore across the golden front of Crow's Canyon and play as broken sheriff Judd Henrie. Having lost his rookie and partner in-training Bailey Finkle, Henrie is on an unhinged path to redemption for the outlaw and mercenary Jebediah Vandisch. Along the way, the sheriff will encounter some untimely folk (and foes) as he finds himself in many bar fights on the journey. One of which is a mysterious young woman (and troublemaker) named Fiona who has information he needs but isn't the nicest to authority.\n\n
     As the two stop bank heists and runaway-trains, they make the unlikely duo that the town never knew they needed.\n\n",
     extraInfo: ["Type: Video Game", "Genre: Action, Adventure", "Year: 2019"]
@@ -32,7 +34,7 @@ portfolios: [
     subheader: "A Death Battle Fanfiction",
     content: "In the “affluent” depths of Bilgewater, he found himself in the home of thieves, pickpockets, and smugglers galore. The cowboy, stern in nature, was a ways away from his own.\n\n
 He was a stranger in this strange land.\n\n
-With his red serape moving with the sea’s breeze, his smoking cigar, with every puff, burned against the cold night. Like a leper, he mysteriously kept his left arm covered from onlookers with his shawl. And as he slowly walked the streets of this crime-filled, harbor city, the gold letters embellished on his belt relayed the message that he was, in fact, an outsider. \n\n
+With his red serape moving with the sea’s breeze, his smoking cigar, with every puff, burned against the cold night. Like a leper, he mysteriously kept his left arm covered from onlookers with his shawl. And as he slowly walked the streets of this crime-filled, harbor city, the gold letters embellished on his belt relayed the message that he was, in fact, an outsider.\n\n
 “BAMF,” it weirdly read under the moonlit sky.\n\n
 After passing three others, he stopped in front of the entrance of yet another bar. He looked at the sign overhead but upon hearing the muffled sound of drunken laughter, he knew he reached the right place. Thus, he entered.\n\n
 ...",

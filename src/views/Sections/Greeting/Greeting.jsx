@@ -31,11 +31,11 @@ const Greeting = ({ className, frontmatter }) => {
               and huge nerd to all-things Marvel!<br /><br />
               Welcome to my humble abode! Here, you&apos;ll get to learn a thing or two<br/>
               about me, my interests, and what I&apos;m currently working on at the<br/>
-              moment. Hopefully you&apos;ll find a good read or even a laugh here.<br/><br/>
-              Because from the overgrown world in The Last of Us to the elaborate<br/>
-              universe of League of Legends&apos;s Runterra, I enjoy the experience of<br/>
-              immersive storytelling, in hopes that someday I&apos;ll be able to create<br />
-              the same.
+              moment. Hopefully you&apos;ll find a good read (or even a laugh) here.<br/><br/>
+              From the overgrown, infected world of The Last of Us to the vast and<br/>
+              elaborate universe of League&apos;s Runterra, I enjoy the experience of<br/>
+              immersive storytelling, and only hope that someday I can create<br />
+              something similar of my own. So, cheers to that.
 
             </p>
           </div>

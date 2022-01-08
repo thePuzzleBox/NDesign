@@ -1,8 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-// import { Document, Page } from 'react-pdf/dist/umd/entry.webpack';
-// import sample from 'content/assets/images/portfolio/docs/pickle rick.pdf'
 import { Modal, Button } from "react-bootstrap";
 
 import Image from "components/Image";
