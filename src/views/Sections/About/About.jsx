@@ -38,7 +38,7 @@ const About = ({ className, frontmatter }) => {
       </Row>
       <Col style={{ marginTop: "50px", marginLeft: "140px", marginBottom: "-100px" }}>
         <Row>
-          <p className="text-center" style={{ textDecoration: "underline", fontWeight: "bold", marginTop: "100px" }}>Hey, That&apos;s Me! &#40;Features&#41; </p>
+          <p className="text-center" style={{ textDecoration: "underline", fontWeight: "bold", marginTop: "100px" }}>Hey, That&apos;s Me! &#40;Features&#41;</p>
         </Row><ul>
           <Row><li>
             <a href="https://www.hrc.org/news/hrc-foundation-announces-class-of-2021-youth-ambassadors">HRC Foundation Announces Class of 2021 Youth Ambassadors</a><br />
