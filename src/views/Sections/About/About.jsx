@@ -56,7 +56,7 @@ const About = ({ className, frontmatter }) => {
             <a href="https://www.glaad.org/amp/transmen-and-trans-masc-people-share-their-favorite-part-being-trans-offer-advice-youth-and-allies">Trans Men and Trans Masculine People Share Advice to Youth and Allies</a><br />
           </li></Row>
           <Row><li>
-            <a href="https://www.hrc.org/magazine/2021-early-fall/online-communities-early-fall-2021"> Ensuring Positive Digital Spaces For LGBTQ+ Youth – Equality Magazine Early Fall 2021</a><br />
+            <a href="https://www.hrc.org/magazine/2021-early-fall/online-communities-early-fall-2021">Ensuring Positive Digital Spaces For LGBTQ+ Youth – Equality Magazine Early Fall 2021</a><br />
           </li></Row>
           <Row><li>
             <a href="https://www.hrc.org/magazine/2021-winter/up-front">Up Front – Equality Magazine Winter 2021</a><br />
