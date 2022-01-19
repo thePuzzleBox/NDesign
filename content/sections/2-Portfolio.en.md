@@ -10,6 +10,7 @@ portfolios: [
     subheader: "A Low-Poly Westerner",
     content: "Sunset Showdown is a Western RPG and unfinished project developed in Unity that will resume development sometime in the future. Artwork done by former colleague.\n\n
 
+    Featured Here: https://medium.com/@JalenSmith26/inside-sunset-showdown-64a062d7953f\n\n
     About the Game:\n\n
     Explore across the golden front of Crow's Canyon and play as broken sheriff Judd Henrie. Having lost his rookie and partner in-training Bailey Finkle, Henrie is on an unhinged path to redemption for the outlaw and mercenary Jebediah Van Rowe. Along the way, the sheriff will encounter some untimely folk (and foes) as he finds himself in many bar fights on the journey. One of which is a mysterious young woman (and troublemaker) named Fiona who has information he needs, but doesn't in the slightest bit like authority.\n\n
     As the two stop bank heists and runaway-trains, they make the unlikely duo that the town never knew they needed.\n\n\n",
@@ -51,7 +52,7 @@ After passing three others, he stopped in front of the entrance of yet another b
     
     About the Game:\n\n
     The player takes a look into the psyche of Marc Krill, a single father who struggles in an on-going battle with alcoholism, slowly losing his grip on reality.\n\n
-    Despite his blackouts and constant replaying of memories, the only other thing Marc looks forward to aside from his young daughter, is his weekly therapy appointment where he can decompress and silence the chaos he carries around...\n\n\n",
+    Despite his blackouts and constant replaying of memories, the only other thing Marc looks forward to aside from being there for his young transgender daughter, Izzy, is his weekly therapy appointment where he can decompress and silence the chaos he carries around...\n\n\n",
     extraInfo: ["Type: Video Game", "Genre: Psychological Thriller", "Year: 2021"]
   },
   {
