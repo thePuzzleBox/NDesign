@@ -10,7 +10,7 @@ portfolios: [
     subheader: "A Low-Poly Westerner",
     content: "Sunset Showdown is a Western RPG and unfinished project developed in Unity that will resume development sometime in the future. Artwork done by former colleague.\n\n
 
-    Featured Here: https://medium.com/@JalenSmith26/inside-sunset-showdown-64a062d7953f\n\n
+    Insider Overview: https://bit.ly/3qH6RCf\n\n
     About the Game:\n\n
     Explore across the golden front of Crow's Canyon and play as broken sheriff Judd Henrie. Having lost his rookie and partner in-training Bailey Finkle, Henrie is on an unhinged path to redemption for the outlaw and mercenary Jebediah Van Rowe. Along the way, the sheriff will encounter some untimely folk (and foes) as he finds himself in many bar fights on the journey. One of which is a mysterious young woman (and troublemaker) named Fiona who has information he needs, but doesn't in the slightest bit like authority.\n\n
     As the two stop bank heists and runaway-trains, they make the unlikely duo that the town never knew they needed.\n\n\n",
