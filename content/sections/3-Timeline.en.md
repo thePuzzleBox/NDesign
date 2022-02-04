@@ -19,7 +19,7 @@ timeline: [
     imageFileName: "events/journey.jpg",
     header: "Early 2018",
     subheader: "Uncovering a Niche",
-    content: "As anything in need of pursuing, I researched. I read. And because of that, I wrote. This paper came to be the answer to my curiosity and a reflection of a career in the making."
+    content: "As anything in need of pursuing, I researched. I read. And because of that, I wrote. This paper came to be the answer to my curiosity and the start of a career in the making."
   },
   {
     imageFileName: "events/hrc.png",
