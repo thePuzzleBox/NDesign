@@ -1,5 +1,5 @@
 <h1 align="center">
-  Gatsyby startbootstrap-agency
+  My Narrative Portfolio
 </h1>
 
 gatsby version of startbootstrap-agency with i18n supported.
@@ -11,7 +11,7 @@ __This project is migrated to Gatsby@v3, check the latest Gatsby@v2 version [her
 
 ## Preview
 
-![startbootstrap-agency](https://github.com/thundermiracle/gatsby-startbootstrap-agency/blob/screenshot/screenshot/startbootstrap-agency.png)
+![landing](https://user-images.githubusercontent.com/37672744/152924433-2c5e4588-331f-46f7-8fc0-1f5f4a2945bb.jpg)
 
 ## Sample page
 
