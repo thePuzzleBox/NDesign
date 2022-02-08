@@ -9,7 +9,7 @@ import * as Sections from "views/Sections";
 import SEO from "components/SEO";
 
 import "gatsby-browser";
-//import "utils/fixFontAwesome";
+// import "utils/fixFontAwesome";
 import breakDownAllNodes from "utils/breakDownAllNodes";
 import fileNameToSectionName from "utils/fileNameToSectionName";
 
