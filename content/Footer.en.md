@@ -3,7 +3,7 @@ copyright: "Copyright © Made with ❤️"
 social: {
   medium: "JalenSmith26",
   
-  youtube: "Jalenskytv"
+  github: "thePuzzleBox"
 }
 privacyText: "Banner by Steven Sugar"
 privacyHref: ""
