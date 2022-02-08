@@ -1,4 +1,5 @@
 import React from "react";
+import "utils/fixFontAwesome";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 
@@ -8,7 +9,6 @@ import Footer from "views/Footer";
 import * as Sections from "views/Sections";
 import SEO from "components/SEO";
 
-import "utils/fixFontAwesome";
 import breakDownAllNodes from "utils/breakDownAllNodes";
 import fileNameToSectionName from "utils/fileNameToSectionName";
 
