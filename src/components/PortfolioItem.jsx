@@ -44,7 +44,7 @@ const PortfolioItem = ({
           />
           <div className="portfolio-hover">
             <div className="portfolio-hover-content">
-              <Icon iconName="PlusIcon" size="1x" />
+              <Icon iconName="PlusIcon" size="0.25x" />
             </div>
           </div>
         </a>
