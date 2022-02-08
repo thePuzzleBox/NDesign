@@ -28,9 +28,9 @@ const Footer = ({ frontmatter }) => {
             {facebook ? <SocialIcons.Facebook userName={facebook} /> : null}
             {medium ? <SocialIcons.Medium userName={medium} /> : null}
             {linkedin ? <SocialIcons.Linkedin userName={linkedin} /> : null}
-            {github ? <SocialIcons.Github userName={github} /> : null}
             {youtube ? <SocialIcons.YouTube userName={youtube} /> : null}
             {twitch ? <SocialIcons.Twitch userName={twitch} /> : null}
+            {github ? <SocialIcons.Github userName={github} /> : null}
           </Col>
           <Col lg={4} className="text-lg-right">
             {privacyText}
