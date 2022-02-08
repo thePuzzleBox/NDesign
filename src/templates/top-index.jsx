@@ -8,7 +8,8 @@ import Footer from "views/Footer";
 import * as Sections from "views/Sections";
 import SEO from "components/SEO";
 
-import "utils/fixFontAwesome";
+import "gatsby-browser";
+//import "utils/fixFontAwesome";
 import breakDownAllNodes from "utils/breakDownAllNodes";
 import fileNameToSectionName from "utils/fileNameToSectionName";
 
