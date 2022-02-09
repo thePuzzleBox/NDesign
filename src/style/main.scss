@@ -42,6 +42,11 @@ h6 {
   text-shadow: none;
 }
 
+a:link::selection {
+  background: $primary;
+  text-shadow: none;
+}
+
 img::selection {
   background: transparent;
 }
