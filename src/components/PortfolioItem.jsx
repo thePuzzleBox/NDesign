@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 
 import { Col } from "react-bootstrap";
 import Image from "components/Image";
+/* delete this on fix */ import Image2 from "content/assets/images/logos/plus.jpg";
 import Icon from "components/Icon";
 import PortfolioDetailDialog from "components/PortfolioDetailDialog";
 
@@ -44,6 +45,7 @@ const PortfolioItem = ({
           />
           <div className="portfolio-hover">
             <div className="portfolio-hover-content">
+              <img src={Image2} alt="plus" width="10%" height="auto"/>
               {/* <Icon iconName="PlusIcon" size="2x" /> */}
             </div>
           </div>
