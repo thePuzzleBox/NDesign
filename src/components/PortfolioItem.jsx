@@ -45,7 +45,7 @@ const PortfolioItem = ({
           />
           <div className="portfolio-hover">
             <div className="portfolio-hover-content">
-              <img src={Image2} alt="plus" width="10%" height="auto"/>
+              <img src={Image2} alt="plus" width="12.5%" height="auto"/>
               {/* <Icon iconName="PlusIcon" size="2x" /> */}
             </div>
           </div>
