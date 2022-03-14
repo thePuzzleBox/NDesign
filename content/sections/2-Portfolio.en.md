@@ -12,7 +12,7 @@ portfolios: [
 
     Inside Look: https://bit.ly/3qH6RCf\n\n
     About the Game:\n\n
-    Explore across the golden front of Crow's Canyon and play as broken sheriff Judd Henrie. Having lost his rookie and partner in-training Bailey Finkle, Henrie is on an unhinged path to redemption for the outlaw and mercenary Jebediah Van Rowe. Along the way, the sheriff will encounter some untimely folk (and foes) as he finds himself in many bar fights on the journey. One of which is a mysterious young woman (and troublemaker) named Fiona who has information he needs, but doesn't in the slightest bit like authority.\n\n
+    Explore across the golden front of Crow's Canyon and play as broken sheriff Judd Henrie. Having lost his rookie and partner in-training Bailey Finkle, Henrie is on an unhinged path to redemption for the outlaw and mercenary Jebediah Van Rowe. Along the way, the sheriff will encounter some untimely folk (and foes) as he finds himself in many bar fights on the journey. One of which is a mysterious young woman (and troublemaker) named Astrid who has information he needs, but doesn't in the slightest bit like authority.\n\n
     As the two stop bank heists and runaway-trains, they make the unlikely duo that the town never knew it needed.\n\n\n",
     extraInfo: ["Type: Video Game", "Genre: Action, Adventure", "Year: 2019"]
   },
