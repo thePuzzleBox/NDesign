@@ -28,7 +28,7 @@ timeline: [
     content: "My other passion, activism, led me to HRC. Now one of their Youth Ambassadors, I am able to further support my communities in this new capacity as I continue to try to make a difference through my words."
   },
   {
-    imageContent: "The End?"
+    imageContent: "The\nEnd?"
   }
 ]
 ---
