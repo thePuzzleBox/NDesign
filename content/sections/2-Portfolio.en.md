@@ -51,7 +51,7 @@ After passing three others, he stopped in front of the entrance of yet another b
     content: "Mondays at Five is an original short story currently being adapted and developed into a text-based thriller in Twine.\n\n
     
     About the Game:\n\n
-    The player takes a look into the psyche of Marc Krill, a single father who struggles in an on-going battle with alcoholism, slowly losing his grip on reality.\n\n
+    The player takes a look into the fractured psyche of Marc Krill, a single father who struggles in an on-going battle with alcoholism, slowly losing his grip on reality.\n\n
     Despite his blackouts and constant replaying of memories, the only other thing Marc looks forward to aside from being there for his young daughter, Izzy, is his weekly therapy appointment where he can decompress and silence the chaos he carries around...\n\n\n",
     extraInfo: ["Type: Video Game", "Genre: Psychological Thriller", "Year: 2021"]
   },
