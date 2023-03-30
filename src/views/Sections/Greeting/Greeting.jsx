@@ -26,23 +26,23 @@ const Greeting = ({ className, frontmatter }) => {
             <h4 style={{ fontSize: "35pt" }}>Hi! I&apos;m Jalen.</h4>
           </div>
           <div className="info-body">
-            <p className="text-muted" style={{marginRight: "0px"}}>
-              <br />Aspiring storyteller, queer rights activist, narrative game enthusiast,<br />
+            <p className="text-muted" style={{ marginRight: "0px" }}>
+              <br />Storyteller, queer rights activist, narrative game enthusiast,<br />
               and huge nerd to all-things Marvel!<br /><br />
-              Welcome to my humble abode. Here, you&apos;ll get to learn a thing or two<br/>
-              about me, my interests, and what I&apos;m currently working on at the<br/>
-              moment. Hopefully you&apos;ll find a good read (or even a laugh) here.<br/><br/>
-              So from the overgrown, infected world of The Last of Us to the vast<br/>
-              and elaborate universe of Runeterra, I enjoy the experience that<br/>
+              Welcome to my humble abode. Here, you&apos;ll get to learn a thing or two<br />
+              about me, my interests, and what I&apos;m currently working on at the<br />
+              moment. Hopefully you&apos;ll find a good read (or even a laugh) here.<br /><br />
+              So from the overgrown, infected world of The Last of Us to the vast<br />
+              and elaborate universe of Runeterra, I enjoy the experience that<br />
               comes with immersive storytelling, and only hope someday I can<br />
-              tell powerful stories of my own. 
+              tell powerful stories of my own.
 
             </p>
           </div>
         </div>
         <Col lg={6} className="text-center">
           <div>
-            <img src={Image} alt="Me and Pierre" width="70%" height="auto" style={{ borderRadius: "100%", marginTop:"25px"}} />
+            <img src={Image} alt="Me and Pierre" width="70%" height="auto" style={{ borderRadius: "100%", marginTop: "25px" }} />
           </div>
         </Col>
       </Row>
