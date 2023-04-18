@@ -13,7 +13,7 @@ timeline: [
     imageFileName: "events/max.jpg",
     header: "Summer 2015",
     subheader: "A Game That Would Change My Life Forever",
-    content: "After playing the 2014 game Life is Strange for the first time, I was thoroughly moved by a surprising amount of character vulneralbility and, thus, my trajectory as a player would completely change..."
+    content: "After playing the 2014 game Life is Strange for the first time, I was thoroughly moved by a surprising amount of character vulneralbility and, thus, my trajectory would completely change..."
   },
   {
     imageFileName: "events/journey.jpg",
