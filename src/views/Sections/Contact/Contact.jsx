@@ -25,17 +25,17 @@ const Contact = ({ className, frontmatter }) => {
       </Row>
       <Row style={{ marginTop: "80px", marginBottom: "20px" }}>
         <Col lg={4} className="ml-auto text-center">
-        <img src={Image} alt="Phone" width="20%" height="auto"/>
+          <img src={Image} alt="Phone" width="20%" height="auto" />
           {/* Delete above img then re-add on fix -> <Icon iconName="PhoneIcon" size="3x" className="text-muted mb-3" /> */}
-          <a className="d-block" href={`tel:${telephone}`}>
-            {telephone}
+          <a className="d-block"> {/* href={`tel:${telephone}`} */}
+            {/* {telephone} */}
           </a>
         </Col>
         <Col lg={4} className="mr-auto text-center">
-        <img src={Image2} alt="Email" width="20%" height="auto"/>
-         {/*  Delete above img then re-add on fix -> <Icon iconName="EnvelopIcon" size="3x" className="text-muted mb-3" /> */}
-          <a className="d-block" href={`mailto:${email}`}>
-            {email}
+          <img src={Image2} alt="Email" width="20%" height="auto" />
+          {/*  Delete above img then re-add on fix -> <Icon iconName="EnvelopIcon" size="3x" className="text-muted mb-3" /> */}
+          <a className="d-block"> {/* href={`mailto:${email}`} */}
+            {/* {email} */}
           </a>
         </Col>
       </Row>

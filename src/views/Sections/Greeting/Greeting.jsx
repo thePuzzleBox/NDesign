@@ -27,8 +27,8 @@ const Greeting = ({ className, frontmatter }) => {
           </div>
           <div className="info-body">
             <p className="text-muted" style={{ marginRight: "0px" }}>
-              <br />Storyteller, human rights activist, narrative enthusiast,<br />
-              and huge nerd to all-things Marvel!<br /><br />
+              <br />Storyteller, activist, narrative enthusiast, and huge<br />
+              nerd to all-things Marvel!<br /><br />
               Welcome to my humble abode. Here, you&apos;ll get to learn a thing or two<br />
               about me, my interests, and what I&apos;m currently working on at the<br />
               moment. Hopefully you&apos;ll find a good read (or even a laugh) here.<br /><br />
