@@ -31,11 +31,12 @@ const About = ({ className, frontmatter }) => {
       </Row>
       <Row>
         <div>
-          <Col lg={9} className="mx-auto text-left" style={{ marginTop: "35px"}}>
-            <p className="large text-muted" margin-top="100px">{rootContent}</p>
+          <Col lg={9} className="mx-auto text-left" style={{ marginTop: "35px" }}>
+            <p className="large text-muted">{rootContent}</p>
           </Col>
         </div>
       </Row>
+      {/*
       <Col style={{ marginTop: "50px", marginLeft: "140px", marginBottom: "-100px" }}>
         <Row>
           <p className="text-center" style={{ textDecoration: "underline", fontWeight: "bold", marginTop: "100px" }}>Hey, That&apos;s Me! &#40;Features&#41;</p>
@@ -46,7 +47,7 @@ const About = ({ className, frontmatter }) => {
           <Row><li>
             <a href="https://www.youtube.com/watch?v=EZIwxoe3dZw">HRC Youth Ambassador, Jalen Smith, Speaks at HRC&apos;s 8th Annual Time to THRIVE Conference!</a><br />
           </li></Row>
-         <Row><li>
+          <Row><li>
             <a href="https://uproxx.com/music/brockhampton-gay-clothing-zumiez/">Brockhampton Relaunches Their ‘Gay’ Clothing Collection At Zumiez</a><br />
           </li></Row>
           <Row><li>
@@ -61,8 +62,9 @@ const About = ({ className, frontmatter }) => {
           <Row><li>
             <a href="https://www.hrc.org/magazine/2021-winter/up-front">Up Front – Equality Magazine Winter 2021</a><br />
           </li></Row>
-          </ul >
+        </ul >
       </Col >
+  */}
     </PageSection >
   );
 };

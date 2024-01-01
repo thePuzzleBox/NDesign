@@ -17,7 +17,7 @@ module.exports = {
         trackingId,
       },
     },
-     "gatsby-plugin-image",
+    "gatsby-plugin-image",
     {
       resolve: "gatsby-plugin-manifest",
       options: {
@@ -58,8 +58,6 @@ module.exports = {
     {
       resolve: "gatsby-plugin-sass",
       options: {
-        data: `@import "core.scss";`,
-        includePaths: [path.resolve(__dirname, "src/style")],
       },
     },
     {

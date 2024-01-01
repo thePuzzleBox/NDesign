@@ -1,12 +1,16 @@
+@import "../style/core.scss";
+
 .portfolio-item {
   right: 0;
   margin: 0 0 15px;
+
   .portfolio-link {
     position: relative;
     display: block;
     max-width: 400px;
     margin: 0 auto;
     cursor: pointer;
+
     .portfolio-hover {
       position: absolute;
       top: 0;
@@ -15,9 +19,11 @@
       transition: all ease 0.5s;
       opacity: 0;
       background: fade-out($primary, 0.1);
+
       &:hover {
         opacity: 1;
       }
+
       .portfolio-hover-content {
         font-size: 20px;
         position: absolute;
@@ -27,9 +33,11 @@
         margin-top: -12px;
         text-align: center;
         color: white;
+
         i {
           margin-top: -12px;
         }
+
         h3,
         h4 {
           margin: 0;
@@ -37,28 +45,43 @@
       }
     }
   }
+
   .portfolio-caption {
     max-width: 400px;
     margin: 0 auto;
     padding: 25px;
     text-align: center;
     background-color: $white;
+
     h4 {
       margin: 0;
       text-transform: none;
       color: black;
     }
+
     p {
       font-size: 16px;
       font-style: italic;
       margin: 0;
       @include serif-font;
     }
-    
-    a:link { text-decoration: none; }
-    a:visited { text-decoration: none; }
-    a:hover { text-decoration: underline; text-decoration-color: black; }
-    a:active { text-decoration: none; }
+
+    a:link {
+      text-decoration: none;
+    }
+
+    a:visited {
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      text-decoration-color: black;
+    }
+
+    a:active {
+      text-decoration: none;
+    }
   }
 }
 
